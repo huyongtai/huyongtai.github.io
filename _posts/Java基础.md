@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      JAVA基础总结
-subtitle:   WWDC 2019 Keynote 全记录
+subtitle:   WWDC 2019 Keynote 不全记录
 date:       2019-09-24
 author:     BY
 header-img: img/post-bg-cook.jpg
