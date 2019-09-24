@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      安装步骤
+title:      CentOS7安装MySQL5.7步骤
 date:       2019-09-24
 author:     BY
 header-img: img/post-bg-kuaidi.jpg
